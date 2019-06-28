@@ -1,2 +1,7 @@
 test
+<<<<<<< HEAD
 test1
+=======
+test3
+test4
+>>>>>>> refs/heads/branch1
